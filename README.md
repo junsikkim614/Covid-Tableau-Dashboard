@@ -1,5 +1,5 @@
 # Covid-Tableau-Dashboard
------ 
+
 ##### This project analyzes global COVID-19 data, focusing on infection rates, death counts, and population impact across different countries and continents. The analysis uses SQL queries to process the data, which is then visualized in a Tableau dashboard for easy interpretation.
  
 **Skills used:** SQL (MySQL), Data Analysis, Tableau, Data Visualization
